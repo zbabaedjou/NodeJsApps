@@ -1,6 +1,8 @@
 JEU DE DAME
 ===========
 
+### Projet réalisé à deux(02): Ziadath BABAEDJOU & Hajare Qehoui
+
 Ce projet a pour objectif d'implémenter un jeu de Dame multi-utilisateur. Notre jeu comporte:
 Vous devez réaliser un jeu en ligne sur le modèle vu en TD. Il doit comporter :
 
